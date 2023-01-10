@@ -1,0 +1,15 @@
+Story: A warrior wants to find a treasure chest with loot that give special powers. There are different levels and each one has hostile creatures which try to kill the warrior, and at the end of each level there will be a boss to kill and once you finish all the levels there will be a boss where you can combine all your loot into many objects to defeat the boss. 
+
+PC and NPC: PC is the warrior, the NPC are the hostile creatures and bosses. 
+
+Goal: To complete each level and obtain the loot and the end of each level by killing the bosses. At the end of all the levels there will be a final boss and you can combine your loot to deafeat the final boss. 
+
+Obstacles: You have to kill the hostile creatures that try to kill you and you need to kill the bosses at the end of each level. 
+
+Rules: There will be a border that can not be crossed. 
+
+Chance vs skill: The game provides both chance and skill
+
+Balance: Every player will have the same boss on the same levels. 
+
+Feedback: When the player successfully beats the level they will get a pop-up saying 'well done' but if they die then they get a pop-up saying 'Good try, go again'.
